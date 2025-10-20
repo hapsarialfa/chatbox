@@ -1,0 +1,23 @@
+{
+    "pageTitle": "CHTBX",
+    "headerTitle": "ChatBox",
+    "allowedExtensions": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "webp",
+        "mp4",
+        "webm",
+        "mov",
+        "ogg",
+        "pdf",
+        "doc",
+        "docx",
+        "xls",
+        "xlsx",
+        "txt",
+        "zip",
+        "rar"
+    ]
+}
