@@ -66,9 +66,7 @@ graph TD
 
 ### 3. AI Bot Integrations
 
--   **CoinGecko Bot (`@harga`, `@info`)**: Fetches and displays real-time cryptocurrency prices and market information.
--   **Magnizium AI (`@ask`)**: A conversational AI powered by Google Gemini. It maintains a session-based chat history for context-aware conversations.
--   **iMagezium (`@generate`)**: An image generation bot that uses Google's Vertex AI (Imagen 3) to create images from text prompts.
+SOON..
 
 ## Getting Started
 
@@ -99,4 +97,5 @@ graph TD
     ```
 
     This will build the backend image, pull the Nginx image, and start both services. The application will be accessible at `http://localhost`.
+
 
